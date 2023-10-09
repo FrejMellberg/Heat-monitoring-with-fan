@@ -26,6 +26,8 @@ In addition three LEDs, green/yellow/red, is added to indicate how close the tem
 <p>
 <br>
 </p>
-### The Setup, (schematics needed)
+### The Setup (missing battery)
 
-![Setup picture](/picture.jpg)
+![Setup picture](/picture.jpg "The Setup, missing battery")
+
+#### Schematics would be better, might add later
